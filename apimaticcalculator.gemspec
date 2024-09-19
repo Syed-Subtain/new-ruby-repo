@@ -1,11 +1,11 @@
 Gem::Specification.new do |s|
   s.name = 'syed-subtain'
-  s.version = '6.32.58'
+  s.version = '1.2.356'
   s.summary = 'this is testing'
   s.description = ''
   s.authors = ['Syed subtain']
   s.email = []
-  s.homepage = ''
+  s.homepage = 'https://apimatic.io'
   s.licenses = ['MIT']
   s.metadata  = {
 }
