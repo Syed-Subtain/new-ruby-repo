@@ -1,5 +1,5 @@
 
-# Getting Started with APIMATIC CALCULATOR
+# Getting Started with Apimatic Calculator
 
 ## Introduction
 
@@ -10,20 +10,20 @@ Simple calculator API hosted on APIMATIC
 Install the gem from the command line:
 
 ```ruby
-gem install syed-subtain -v 1.2.356
+gem install syed-subtain -v 1.2.366
 ```
 
 Or add the gem to your Gemfile and run `bundle`:
 
 ```ruby
-gem 'syed-subtain', '1.2.356'
+gem 'syed-subtain', '1.2.366'
 ```
 
-For additional gem details, see the [RubyGems page for the syed-subtain gem](https://rubygems.org/gems/syed-subtain/versions/1.2.356).
+For additional gem details, see the [RubyGems page for the syed-subtain gem](https://rubygems.org/gems/syed-subtain/versions/1.2.366).
 
 ## Initialize the API Client
 
-**_Note:_** Documentation for the client can be found [here.](https://www.github.com/Syed-Subtain/new-ruby-repo/tree/1.2.356/doc/client.md)
+**_Note:_** Documentation for the client can be found [here.](https://www.github.com/Syed-Subtain/new-ruby-repo/tree/1.2.366/doc/client.md)
 
 The following parameters are configurable for the API Client:
 
@@ -43,18 +43,18 @@ The following parameters are configurable for the API Client:
 The API client can be initialized as follows:
 
 ```ruby
-client = Apimaticcalculator::Client.new(
+client = ApimaticCalculator::Client.new(
   environment: Environment::PRODUCTION
 )
 ```
 
 ## List of APIs
 
-* [Simple Calculator](https://www.github.com/Syed-Subtain/new-ruby-repo/tree/1.2.356/doc/controllers/simple-calculator.md)
+* [Simple Calculator](https://www.github.com/Syed-Subtain/new-ruby-repo/tree/1.2.366/doc/controllers/simple-calculator.md)
 
 ## Classes Documentation
 
-* [Utility Classes](https://www.github.com/Syed-Subtain/new-ruby-repo/tree/1.2.356/doc/utility-classes.md)
-* [HttpResponse](https://www.github.com/Syed-Subtain/new-ruby-repo/tree/1.2.356/doc/http-response.md)
-* [HttpRequest](https://www.github.com/Syed-Subtain/new-ruby-repo/tree/1.2.356/doc/http-request.md)
+* [Utility Classes](https://www.github.com/Syed-Subtain/new-ruby-repo/tree/1.2.366/doc/utility-classes.md)
+* [HttpResponse](https://www.github.com/Syed-Subtain/new-ruby-repo/tree/1.2.366/doc/http-response.md)
+* [HttpRequest](https://www.github.com/Syed-Subtain/new-ruby-repo/tree/1.2.366/doc/http-request.md)
 
