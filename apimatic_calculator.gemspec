@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = 'syed-subtain'
-  s.version = '1.2.366'
+  s.version = '1.11.14'
   s.summary = 'this is testing'
   s.description = ''
   s.authors = ['Syed subtain']

@@ -10,20 +10,20 @@ Simple calculator API hosted on APIMATIC
 Install the gem from the command line:
 
 ```ruby
-gem install syed-subtain -v 1.2.366
+gem install syed-subtain -v 1.11.14
 ```
 
 Or add the gem to your Gemfile and run `bundle`:
 
 ```ruby
-gem 'syed-subtain', '1.2.366'
+gem 'syed-subtain', '1.11.14'
 ```
 
-For additional gem details, see the [RubyGems page for the syed-subtain gem](https://rubygems.org/gems/syed-subtain/versions/1.2.366).
+For additional gem details, see the [RubyGems page for the syed-subtain gem](https://rubygems.org/gems/syed-subtain/versions/1.11.14).
 
 ## Initialize the API Client
 
-**_Note:_** Documentation for the client can be found [here.](https://www.github.com/Syed-Subtain/new-ruby-repo/tree/1.2.366/doc/client.md)
+**_Note:_** Documentation for the client can be found [here.](https://www.github.com/Syed-Subtain/new-ruby-repo/tree/1.11.14/doc/client.md)
 
 The following parameters are configurable for the API Client:
 
@@ -50,11 +50,11 @@ client = ApimaticCalculator::Client.new(
 
 ## List of APIs
 
-* [Simple Calculator](https://www.github.com/Syed-Subtain/new-ruby-repo/tree/1.2.366/doc/controllers/simple-calculator.md)
+* [Simple Calculator](https://www.github.com/Syed-Subtain/new-ruby-repo/tree/1.11.14/doc/controllers/simple-calculator.md)
 
 ## Classes Documentation
 
-* [Utility Classes](https://www.github.com/Syed-Subtain/new-ruby-repo/tree/1.2.366/doc/utility-classes.md)
-* [HttpResponse](https://www.github.com/Syed-Subtain/new-ruby-repo/tree/1.2.366/doc/http-response.md)
-* [HttpRequest](https://www.github.com/Syed-Subtain/new-ruby-repo/tree/1.2.366/doc/http-request.md)
+* [Utility Classes](https://www.github.com/Syed-Subtain/new-ruby-repo/tree/1.11.14/doc/utility-classes.md)
+* [HttpResponse](https://www.github.com/Syed-Subtain/new-ruby-repo/tree/1.11.14/doc/http-response.md)
+* [HttpRequest](https://www.github.com/Syed-Subtain/new-ruby-repo/tree/1.11.14/doc/http-request.md)
 
