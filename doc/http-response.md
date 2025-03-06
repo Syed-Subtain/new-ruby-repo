@@ -11,5 +11,5 @@ Http response received.
 | reason_phrase | String | The reason phrase returned by the server. |
 | headers | Hash | Response headers. |
 | raw_body | String | Response body. |
-| request | [`HttpRequest`](http-request.md) | The request that resulted in this response. |
+| request | [`HttpRequest`](../doc/http-request.md) | The request that resulted in this response. |
 
